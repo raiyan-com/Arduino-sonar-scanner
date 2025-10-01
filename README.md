@@ -56,5 +56,3 @@ Through this project, I practiced:
 4. Watch the servo sweep and observe LED + buzzer alerts as objects move closer or farther.  
 
 ---
-
-
